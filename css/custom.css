@@ -22,6 +22,11 @@
   height: 960px;
 }
 
+#fourth{
+  background-color: #fff1de;
+  height: 960px;
+}
+
 
 #airpods-text{
   padding-top: 350px;
@@ -37,10 +42,9 @@
 }
 
 #ipod-graphic{
-  width: 588px;
-  height: 940px;
-  left: 27%;
-  position: relative;
-  top: 17px;
-  background: url("http://images.apple.com/uk/music/images/overview/ipod_large_2x.png")
+  width: 730px;
+  height: 741px;
+  background-size: 730px 741px;
+  background: url("http://images.apple.com/uk/music/images/overview/ipod_large_2x.png");
+  margin-top: 100px
 }

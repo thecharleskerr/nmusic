@@ -1,0 +1,46 @@
+#first{
+  background-color: #000;
+  color: white;
+  background-repeat: no-repeat;
+  background-image: url("http://images.apple.com/v/music/c/images/overview/family_hero_large_2x.jpg");
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.applecenter{
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.imgsquare{
+  height:200px;
+}
+
+#third{
+  background-color: #f5fdf1;
+  height: 960px;
+}
+
+
+#airpods-text{
+  padding-top: 350px;
+}
+
+#airpods-graphic{
+  width: 588px;
+  height: 940px;
+  left: 27%;
+  position: relative;
+  top: 17px;
+  background: url("http://images.apple.com/v/music/c/images/overview/airpods_large.png")
+}
+
+#ipod-graphic{
+  width: 588px;
+  height: 940px;
+  left: 27%;
+  position: relative;
+  top: 17px;
+  background: url("http://images.apple.com/uk/music/images/overview/ipod_large_2x.png")
+}
